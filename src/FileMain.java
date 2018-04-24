@@ -1,4 +1,4 @@
-//Main file is Test Main it is for rtesting runlength Code
+//Main file is Test Main it is for testing runlength Code
 
 import java.io.*;
 
